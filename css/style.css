@@ -59,12 +59,11 @@ html {
 .header {
   width: 250px;
   height: 20px;
-  background-color: grey;
-  margin-bottom:
+  background-color: #d3d3d3;
+  margin-bottom: 10px;
 }
 
 .content {
-  background-color: grey;
   height: 800px;
   width: calc (100% - 300px);
 }
